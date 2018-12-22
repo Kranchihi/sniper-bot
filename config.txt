@@ -1,0 +1,6 @@
+token=NTI1MTQyMjg2ODI5NDg2MDkz.Dv4mhw.cQZi0KK6JZ0PZZnJA2P_dq7r5Co
+owner=521508099903717396
+prefix=$
+game=Hello There,
+stayinchannel=true 
+songinstatus=true
