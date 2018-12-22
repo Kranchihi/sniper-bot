@@ -1,6 +1,6 @@
 token=NTI1MTQyMjg2ODI5NDg2MDkz.Dv8sKQ.oSjJeF9t-iDayYe7Se92rgj9ep0
 owner=521508099903717396
 prefix=$
-game=Hello There,
+game=Hّello Tّhere,
 stayinchannel=true 
 songinstatus=true
