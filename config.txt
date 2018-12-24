@@ -1,4 +1,4 @@
-token=NTI1MTQyMjg2ODI5NDg2MDkz.Dv8sKQ.oSjJeF9t-iDayYe7Se92rgj9ep0
+token=NTI2NzgzODIyMjY4OTg5NDUw.DwKOTw.8k3rd1NLshkRY7nF9AIGM61sEPQ
 owner=521508099903717396
 prefix=$
 game=Hّello Tّhere,
