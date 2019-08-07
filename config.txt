@@ -1,4 +1,4 @@
-token=NTM3Mjg1NzAyNTA1ODU3MDM0.DyjCTg.N86RYwk0KVCaqWILwSBsS4-xXMU
+token= كسمك
 owner=399320835925606401
 prefix=$
 game=Hّello Tّhere,
