@@ -1,6 +1,6 @@
-token= كسمك
-owner=399320835925606401
-prefix=$
-game=Hّello Tّhere,
+token= 
+owner= 
+prefix=
+game=
 stayinchannel=true 
-songinstatus=true
+songinstatus=false
