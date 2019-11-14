@@ -1,6 +1,6 @@
-token= 
-owner= 
-prefix=
-game=
+token= NjQ0NTM3Mjc1Nzk1MTExOTY3.Xc1eaw.VWts7r-qKDx3A690K5YDsIuerok
+owner= 567804825874595871
+prefix=K
+game=Hi
 stayinchannel=true 
 songinstatus=false
